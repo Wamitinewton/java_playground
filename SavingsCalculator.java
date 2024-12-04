@@ -6,7 +6,7 @@ public class SavingsCalculator {
         Scanner scanner = new Scanner(System.in);
 
         // Constants
-        final double MONTHLY_INTEREST_RATE = 0.0375 / 12; // 3.75% annual rate divided by 12
+        final  double MONTHLY_INTEREST_RATE = 0.0375 / 12; // 3.75% annual rate divided by 12
 
         // Prompt user for monthly saving amount
         System.out.print("Enter the monthly saving amount: ");
