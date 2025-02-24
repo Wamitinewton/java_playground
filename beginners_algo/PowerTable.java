@@ -1,3 +1,5 @@
+package beginners_algo;
+
 public class PowerTable {
     public static void main(String[] args) {
         System.out.println("a\t a^2\t a^3\t a^4");

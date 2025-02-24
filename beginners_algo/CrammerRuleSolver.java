@@ -1,3 +1,5 @@
+package beginners_algo;
+
 public class CrammerRuleSolver {
     public static void main(String[] args) {
 

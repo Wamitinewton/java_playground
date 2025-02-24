@@ -1,3 +1,5 @@
+package beginners_algo;
+
 public class PopulationProjection {
     public static void main(String[] args) {
         int CURRENT_POPULATION = 312_032_486;

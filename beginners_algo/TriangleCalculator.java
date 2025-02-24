@@ -1,3 +1,5 @@
+package beginners_algo;
+
 import java.util.Scanner;
 
 public class TriangleCalculator {
