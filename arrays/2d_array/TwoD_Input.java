@@ -13,7 +13,7 @@ public class TwoD_Input {
         System.out.print("Enter number of columns: ");
         int col = sc.nextInt();
 
-        if (row <= 0 || col <= 0 || row > 2 || col > 2) {
+        if (row <= 0 || col <= 0 || row != col) {
             System.out.println("Error: Number of rows and columns must be correct");
             return;
         }
